@@ -48,9 +48,9 @@ int main(int argc, char *argv[])
 }
 void help()
 {
-    printf("+----------------------------------------+\n");
-    printf("+      The Problem Solved Kings in C     +\n");
-    printf("+                                        +\n");
-    printf("+ Use: $ ./kings <number of kings>       +\n");
-    printf("+----------------------------------------+\n");
+    printf("+---------------------------------------------------------+\n");
+    printf("+                The Problem Solved Kings in C            +\n");
+    printf("+                                                         +\n");
+    printf("+ Use: $ ./kings <number of rows> <number of columns>     +\n");
+    printf("+---------------------------------------------------------+\n");
 }
