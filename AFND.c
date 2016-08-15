@@ -21,7 +21,6 @@ void q0(char palavra[], int cont);
 void q1(char palavra[], int cont);
 void qf(char palavra[], int cont);
 void erro();
-int tamanhoPalavra(char palavra[]);
 
 main()
 {
